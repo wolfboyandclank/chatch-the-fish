@@ -1,2 +1,2 @@
-# chatch-the-fish
+# catch-the-fish
 shark
